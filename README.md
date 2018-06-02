@@ -30,7 +30,7 @@ vim-go: errcheck not found. Installing github.com/kisielk/errcheck to folder /ho
 ```  
 不过这些代码是托管在code.google.com
 由于众所周知的原因，vim-go的自动安装很可能以失败告终,这样就需要你根据上面的日志中提到的各个工具逐一的下载并安装 
-也可以参考这篇文章 [解决go get下载报错问题]()
+也可以参考这篇文章 [解决go get下载报错问题](https://github.com/xiaozefeng/vimrc-go/blob/master/%E6%84%89%E5%BF%AB%E4%BD%BF%E7%94%A8go_get.md)
 
 ```bash
 # 需要安装的依赖
