@@ -115,7 +115,7 @@ let g:go_fmt_command = "goimports"
 到这里，我们的Vim Golang开发环境就基本搭建好了。snippet+实时补齐让你Coding如飞！
 
 ## 附录 
-完整的vimrc  [vimrc]()
+完整的vimrc  [vimrc](https://github.com/xiaozefeng/vimrc-go/blob/master/vimrc)
 
 
 
